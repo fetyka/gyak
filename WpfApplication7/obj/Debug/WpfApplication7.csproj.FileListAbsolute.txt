@@ -1,0 +1,29 @@
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csprojResolveAssemblyReference.cache
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+c:\users\tanar307\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csprojResolveAssemblyReference.cache
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.CoreCompileInputs.cache
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+C:\Users\tanulo18\Documents\Visual Studio 2017\Backup Files\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
